@@ -26,8 +26,10 @@ To access the course site, log into [Iowa Courses Online (ICON)](https://icon.ui
 
 # Course Home {#home}
 
-The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures.
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures.
 Other UI colleges may have different policies.
+<mark>[FOR GRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses.
+Graduate students, however, must adhere to the [academic deadlines set by the Graduate College](https://grad.uiowa.edu/academics/deadlines).
 
 # Instructor Contact Information {#instructor}
 
@@ -48,7 +50,7 @@ Department of Psychological and Brain Sciences: [https://psychology.uiowa.edu](h
 Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
 <mark>[FOR UNDERGRADUATE COURSES:] </mark>Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uiowa.edu](mailto:paul-windschitl@uiowa.edu); 335-3681)\
 <mark>[FOR GRADUATE COURSES:] </mark>Director of Graduate Studies: Ryan LaLumiere ([ryan-lalumiere@uiowa.edu](mailto:ryan-lalumiere@uiowa.edu); 335-3681)\
-Academic Coordinator: Janeil Page-Jamison ([janeil-page@uiowa.edu](mailto:janeil-page@uiowa.edu); 384-3657)\
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Academic Coordinator: Janeil Page-Jamison ([janeil-page@uiowa.edu](mailto:janeil-page@uiowa.edu); 384-3657)\
 Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
 
 # Prerequisites {#prereqs}
@@ -166,7 +168,7 @@ If you have comments on the class or my teaching, please feel free to meet with 
 ## Student Complaints {#complaints}
 
 Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, finally with the DEO (Chair) of the department, school or program offering the course.
-Sometimes students will be referred to the department or program's Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS). 
+Sometimes students will be referred to the department or program's Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS).
 <mark>[FOR UNDERGRADUATE COURSES:] </mark>Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights) for support when the matter is not resolved at the previous level.
 <mark>[FOR GRADUATE COURSES:] </mark>Students should contact the [CLAS Dean's Office](https://resource.clas.uiowa.edu/clas-leadership) when additional support is needed.
 
