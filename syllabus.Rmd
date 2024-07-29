@@ -155,7 +155,7 @@ When you drop a course, a "W" will appear on your transcript.
 The mark of "W" is a neutral mark that does not affect your GPA.
 To discuss how dropping (or staying in) a course might affect your academic goals, please contact your Academic Advisor.
 Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
-<mark>[FOR UNDERGRADUATE COURSES:] </mark>[FOR UNDERGRADUATE COURSES:] Students can find policies on dropping CLAS courses [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Students can find policies on dropping CLAS courses [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
 <mark>[FOR GRADUATE COURSES:] </mark>Students should adhere to the [academic deadlines](https://grad.uiowa.edu/academics/deadlines) and policies set by the Graduate College.
 
 # Feedback about the Course {#feedback}
@@ -174,14 +174,6 @@ Sometimes students will be referred to the department or program's Director of U
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
 For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
-
-# Health and Safety {#health}
-
-The University of Iowa strongly encourages students, faculty, and staff to be vaccinated against COVID-19.
-For information about COVID-19 vaccines on campus, please see https://coronavirus.uiowa.edu.
-If you are feeling sick, test positive for COVID-19, or may have been exposed to COVID-19, please refer to the campus guidance for the appropriate action (https://coronavirus.uiowa.edu/returning-campus/showing-symptoms).
-Regardless of your vaccination status, if you have symptoms consistent with COVID-19, please stay home and follow the appropriate isolation/quarantine guidance.
-For up-to-date information throughout the semester, please refer to https://coronavirus.uiowa.edu.
 
 # Other Expectations of Student Performance {#otherExpectations}
 
