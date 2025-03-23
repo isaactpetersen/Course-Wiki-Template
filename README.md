@@ -3,6 +3,12 @@
 This is the code that creates the template for the Course Wiki.
 The template for the Course Wiki is located here: **https://isaactpetersen.github.io/Course-Wiki-Template**
 
+To render the syllabus as PDF:
+
+```r
+rmarkdown::render("syllabus.Rmd", output_format = "pdf_document")
+```
+
 # License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
