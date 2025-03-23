@@ -6,7 +6,9 @@ The template for the Course Wiki is located here: **https://isaactpetersen.githu
 To render the syllabus as PDF:
 
 ```r
-rmarkdown::render("syllabus.Rmd", output_format = "pdf_document")
+rmarkdown::render(
+  "syllabus.Rmd",
+  output_format = rmarkdown::pdf_document(latex_engine = "xelatex"))
 ```
 
 # License
