@@ -68,7 +68,7 @@ Departmental Executive Officer (DEO)/Department Chair: Professor Blumberg ([mark
 
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
-# Learning Objectives {#objectives}
+# Learning Outcomes {#objectives}
 
 <u>INSERT</u>
 
@@ -86,6 +86,7 @@ All students in CLAS courses are expected to abide by the [college's standards o
 
 Please note that collaboration with other classmates on <u>INSERT</u> is not permitted.
 However, I do encourage you to collaborate with classmates on <u>INSERT</u>.
+In addition, you are expected to follow the course's policy on the use of artificial intelligence (AI), which is outlined below.
 
 # Artificial Intelligence (AI) Policy {#ai}
 
@@ -155,7 +156,7 @@ The relative contribution of each component to your final grade is as follows:
 The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course ICON site once it is known.
 <u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
 It is your responsibility to know the date, time, and place of the final exam.</u>
-According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for teh same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
 # Course Resources {#courseResources}
 
@@ -204,11 +205,25 @@ Arriving prepared for class is part of this expectation.
 [University Policies](https://provost.uiowa.edu/student-course-policies)
 
 [Accommodations for Students with Disabilities](https://provost.uiowa.edu/student-course-policies)\
-The University is committed to providing an educational experience that is accessible to all.
+The University is committed to providing an educational experience that is accessible to all students.
 If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
-SDS is responsible for making Letters of Accommodation (LOA) available.
+SDS is responsible for making [Letters of Accommodation (LOA)](https://sds.studentlife.uiowa.edu/students/letter-accommodations-loa) available to the student.
 <u>The student must provide a LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.</u>
 The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide.
+Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
+
+[Class Recordings](https://provost.uiowa.edu/student-course-policies)\
+Students may be enrolled in a class where some sessions will be recorded or live-streamed.
+Such recordings/streaming will only be available to students registered for the class.
+These recordings are the intellectual property of the instructor and they may not be shared or reproduced without the explicit, written consent of the instructor.
+Further, students may not share these sessions with those not in the class or upload them to any other online environment.
+Doing so would be a breach of the Code of Student Conduct, and, in some cases, a violation of state and federal law, including the Federal Education Rights and Privacy Act (FERPA).
+
+The unauthorized video or audio recording of academic activities (e.g., lectures, course discussions, office hours, etc.) by a student is prohibited.
+Students with a reasonable accommodation for recording approved by Student Disability Services should notify each instructor and provide the Letter of Accommodation prior to using the accommodation.
+A student may record classroom activities with prior written permission from the instructor and notice to other students in the class that audio or video recording may occur.
+Any and all classroom recording must be for personal academic use only.
+The distribution, sharing, sale, or posting of recordings on the internet (including social media), in whole or in part, is prohibited and doing so may be a violation of the Code of Student Life and/or state or federal privacy, copyright, or other laws.
 
 - [Free Speech and Expression](https://provost.uiowa.edu/student-course-policies)
 - [Non-Discrimination](https://provost.uiowa.edu/student-course-policies)
