@@ -68,7 +68,7 @@ Departmental Executive Officer (DEO)/Department Chair: Professor Blumberg ([mark
 
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
-# Learning Outcomes {#objectives}
+# Learning Outcomes {#learningOutcomes}
 
 <u>INSERT</u>
 
@@ -156,7 +156,7 @@ The relative contribution of each component to your final grade is as follows:
 The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course ICON site once it is known.
 <u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
 It is your responsibility to know the date, time, and place of the final exam.</u>
-According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for teh same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
 # Course Resources {#courseResources}
 
