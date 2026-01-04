@@ -71,6 +71,9 @@ jobs:
       #   Rscript -e "install.packages('rstan', repos = c('https://mc-stan.org/r-packages/', getOption('repos')))"
       #  # Rscript -e 'remotes::install_github("DevPsyLab/petersenlab")'
 
+      - name: Render syllabus to PDF
+        run: quarto render syllabus.qmd --to html,pdf
+
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2 # update
         with:
@@ -83,9 +86,6 @@ jobs:
           render: false # renders in previous step, so don't render again
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Render syllabus to PDF
-        run: quarto render syllabus.qmd --to html,pdf
 
       - name: List files in workspace
         if: always()
