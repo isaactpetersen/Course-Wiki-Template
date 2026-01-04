@@ -64,7 +64,7 @@ Read more about what being an undergrad in our lab looks like here!
 
 <center>
 
-[![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
+[![Undergrad RA Expectations](images/labExpectations.png)](link="https://devpsylab.github.io/LabWiki/expectations-undergradRA.html")
 
 </center>
 
@@ -72,11 +72,11 @@ Read more about what being an undergrad in our lab looks like here!
 
 <center>
 
-[![Application Guidelines](images/applicationGuidelines.png)](https://devpsylab.github.io/LabWiki/prospective-undergradRA.html)
+[![Application Guidelines](images/applicationGuidelines.png)](link="https://devpsylab.github.io/LabWiki/prospective-undergradRA.html")
 
 <br>
 
-[![Application](images/apply.png)](https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg)
+[![Application](images/apply.png)](link="https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg")
 
 or
 
