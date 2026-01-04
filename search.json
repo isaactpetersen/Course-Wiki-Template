@@ -4,55 +4,55 @@
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "Last Updated: 01/04/2026"
+    "text": "Last Updated: {r} format(Sys.Date(), \"%m/%d/%Y\")"
   },
   {
     "objectID": "syllabus.html#sec-textbook",
     "href": "syllabus.html#sec-textbook",
     "title": "Course Syllabus",
-    "section": "\n10.1 Textbook",
+    "section": "10.1 Textbook",
     "text": "10.1 Textbook\nINSERT"
   },
   {
     "objectID": "syllabus.html#sec-lecture",
     "href": "syllabus.html#sec-lecture",
     "title": "Course Syllabus",
-    "section": "\n13.1 Lecture",
+    "section": "13.1 Lecture",
     "text": "13.1 Lecture\nINSERT"
   },
   {
     "objectID": "syllabus.html#sec-discussionSection",
     "href": "syllabus.html#sec-discussionSection",
     "title": "Course Syllabus",
-    "section": "\n13.2 Discussion Section",
+    "section": "13.2 Discussion Section",
     "text": "13.2 Discussion Section\nINSERT"
   },
   {
     "objectID": "syllabus.html#sec-attendanceParticipation",
     "href": "syllabus.html#sec-attendanceParticipation",
     "title": "Course Syllabus",
-    "section": "\n13.3 Attendance and Participation",
+    "section": "13.3 Attendance and Participation",
     "text": "13.3 Attendance and Participation\nINSERT"
   },
   {
     "objectID": "syllabus.html#sec-readingQuizzes",
     "href": "syllabus.html#sec-readingQuizzes",
     "title": "Course Syllabus",
-    "section": "\n13.4 Readings & Quizzes",
+    "section": "13.4 Readings & Quizzes",
     "text": "13.4 Readings & Quizzes\nINSERT"
   },
   {
     "objectID": "syllabus.html#sec-exams",
     "href": "syllabus.html#sec-exams",
     "title": "Course Syllabus",
-    "section": "\n13.5 Examinations",
+    "section": "13.5 Examinations",
     "text": "13.5 Examinations\nINSERT\n\n13.5.1 Missing Exams\nUniversity regulations require that students be allowed to make up examinations that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities. Students with UI-authorized activities must discuss their absences with the instructor as soon as possible. Religious obligations must be communicated within the first three weeks of classes. See below for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.\nStudents are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances. Note: the format of the make-up exam may differ from the original exam. If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam. In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa Absence Explanation Form (located in ICON under “Student Tools”) and must be approved by Professor Petersen. In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen or the TA."
   },
   {
     "objectID": "syllabus.html#sec-complaints",
     "href": "syllabus.html#sec-complaints",
     "title": "Course Syllabus",
-    "section": "\n20.1 Student Complaints",
+    "section": "20.1 Student Complaints",
     "text": "20.1 Student Complaints\nStudents with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the DEO (Chair) of the department, school, or program offering the course. Sometimes students will be referred to the department or program’s Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS). [FOR UNDERGRADUATE COURSES:] Students should contact CLAS Undergraduate Programs for support when the matter is not resolved at the previous level. [FOR GRADUATE COURSES:] Students should contact the CLAS Graduate Affairs Manager when additional support is needed."
   },
   {
