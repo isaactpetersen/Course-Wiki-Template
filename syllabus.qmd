@@ -1,6 +1,5 @@
 ---
 title: "Course Syllabus"
-engine: knitr
 execute:
   enabled: true
 ---
