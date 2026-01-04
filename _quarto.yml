@@ -58,6 +58,7 @@ format:
     date-meta: today
   pdf:
     keep-tex: true
+    license: false
 
 lightbox: 
   match: auto
