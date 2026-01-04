@@ -41,7 +41,8 @@ jobs:
           sudo apt-get install -y \
             libcurl4-openssl-dev \
             libharfbuzz-dev \
-            libfribidi-dev
+            libfribidi-dev \
+            inkscape
         
       - name: Install tinytex
         uses: r-lib/actions/setup-tinytex@v2 # update
@@ -61,8 +62,7 @@ jobs:
             url \
             underscore \
             xcolor \
-            csquotes \
-            inkscape
+            csquotes
     
       - name: Install package dependencies
         uses: r-lib/actions/setup-r-dependencies@v2 # update
