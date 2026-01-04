@@ -1,5 +1,5 @@
 Package: placeholder
-Title: QuartoWebsite
+Title: CourseWikiTemplate
 Version: 1.0.0
 Imports:
   quarto,
@@ -8,6 +8,8 @@ Imports:
   downlit,
   xml2,
   remotes,
+  emo,
   petersenlab
 Remotes:
+  hadley/emo,
   DevPsyLab/petersenlab
