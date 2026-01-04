@@ -71,13 +71,13 @@ jobs:
       #   Rscript -e "install.packages('rstan', repos = c('https://mc-stan.org/r-packages/', getOption('repos')))"
       #  # Rscript -e 'remotes::install_github("DevPsyLab/petersenlab")'
 
-      - name: Render syllabus to PDF
-        run: quarto render syllabus.qmd
-
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2 # update
         with:
           to: html # can specify a particular output format
+
+      - name: Render syllabus to PDF
+        run: quarto render syllabus.qmd
     
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
