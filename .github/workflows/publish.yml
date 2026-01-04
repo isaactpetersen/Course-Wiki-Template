@@ -85,7 +85,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Render syllabus to PDF
-        run: quarto render syllabus.qmd --to pdf
+        run: quarto render syllabus.qmd --to html,pdf
 
       - name: List files in workspace
         if: always()
