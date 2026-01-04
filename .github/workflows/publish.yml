@@ -72,7 +72,7 @@ jobs:
       #  # Rscript -e 'remotes::install_github("DevPsyLab/petersenlab")'
 
       - name: Render syllabus to PDF
-        run: quarto render syllabus.qmd --to html,pdf
+        run: quarto render syllabus.qmd
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2 # update
