@@ -75,11 +75,17 @@ Read more about what being an undergrad in our lab looks like here!
 
 <center>
 
-[![Application Guidelines](images/applicationGuidelines.png)](link="https://devpsylab.github.io/LabWiki/prospective-undergradRA.html")
+<a href="https://devpsylab.github.io/LabWiki/prospective-undergradRA.html">
+  <img src="images/applicationGuidelines.png"
+       alt="Application Guidelines">
+</a>
 
 <br>
 
-[![Application](images/apply.png)](link="https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg")
+<a href="https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg">
+  <img src="images/apply.png"
+       alt="Application">
+</a>
 
 or
 
