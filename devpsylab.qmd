@@ -64,7 +64,10 @@ Read more about what being an undergrad in our lab looks like here!
 
 <center>
 
-[![Undergrad RA Expectations](images/labExpectations.png)](link="https://devpsylab.github.io/LabWiki/expectations-undergradRA.html")
+![](images/labExpectations.png){
+  link="https://devpsylab.github.io/LabWiki/expectations-undergradRA.html"
+  .no-lightbox
+}
 
 </center>
 
