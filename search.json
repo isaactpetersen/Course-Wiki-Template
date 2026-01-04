@@ -4,7 +4,7 @@
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "Last Updated: r format(Sys.Date(), \"%m/%d/%Y\")"
+    "text": "Last Updated: {r} format(Sys.Date(), \"%m/%d/%Y\")"
   },
   {
     "objectID": "syllabus.html#sec-textbook",
