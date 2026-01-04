@@ -1,5 +1,8 @@
 ---
 title: "Wiki for PSY:COURSE NUMBER – COURSE NAME (SEMESTER YEAR)"
+format: 
+  html: default
+format-links: false
 ---
 
 The Class Wiki includes the [course syllabus](syllabus.qmd) and miscellaneous resources.

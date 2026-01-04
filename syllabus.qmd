@@ -1,6 +1,9 @@
 ---
 title: "Course Syllabus"
 engine: knitr
+format: 
+  html: default
+  pdf: default
 ---
 
 Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
