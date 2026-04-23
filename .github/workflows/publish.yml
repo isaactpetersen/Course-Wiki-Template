@@ -44,12 +44,7 @@ jobs:
             libfribidi-dev
 
       - name: Install veraPDF for accessibility validation
-        run: |
-          wget https://software.verapdf.org/releases/verapdf-installer.zip
-          unzip verapdf-installer.zip
-          sudo mkdir -p /opt/verapdf
-          sudo mv verapdf-*/* /opt/verapdf
-          sudo ln -s /opt/verapdf/verapdf /usr/local/bin/verapdf
+        run: quarto install verapdf
         
       - name: Install tinytex
         uses: r-lib/actions/setup-tinytex@v2 # update
