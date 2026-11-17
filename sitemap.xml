@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/index.html</loc>
-    <lastmod>2026-08-05T12:30:13.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/devpsylab.html</loc>
-    <lastmod>2026-08-05T12:30:13.900Z</lastmod>
-  </url>
-  <url>
     <loc>https://isaactpetersen.github.io/Course-Wiki-Template/about.html</loc>
-    <lastmod>2026-08-05T12:30:13.900Z</lastmod>
+    <lastmod>2026-11-17T21:06:08.344Z</lastmod>
   </url>
   <url>
-    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/help.html</loc>
-    <lastmod>2026-08-05T12:30:13.909Z</lastmod>
+    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/index.html</loc>
+    <lastmod>2026-11-17T21:06:08.353Z</lastmod>
   </url>
   <url>
     <loc>https://isaactpetersen.github.io/Course-Wiki-Template/syllabus.html</loc>
-    <lastmod>2026-08-05T12:30:13.911Z</lastmod>
+    <lastmod>2026-11-17T21:06:08.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/devpsylab.html</loc>
+    <lastmod>2026-11-17T21:06:08.344Z</lastmod>
+  </url>
+  <url>
+    <loc>https://isaactpetersen.github.io/Course-Wiki-Template/help.html</loc>
+    <lastmod>2026-11-17T21:06:08.352Z</lastmod>
   </url>
 </urlset>
